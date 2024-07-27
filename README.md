@@ -16,3 +16,5 @@ Feel free to get in touch with me @Waykarvaishnavi  or just to ping me for new c
 If you liked my work please follow me on &nbsp;  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vaishnavi-waykar-a84336284/)
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://cdnl.iconscout.com/lottie/premium/preview-watermark/programming-languages-3917207-3262956.mp4" />
+
