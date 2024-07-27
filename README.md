@@ -17,6 +17,13 @@ If you liked my work please follow me on &nbsp;  [![Linkedin Badge](https://img.
 
 <img  align="right" height="250" width="375" alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 
+### Talking about Current Progress :
+
+- 🛠 &nbsp; I’m currently working with tech - java, Springboot, Angular.
+- 🚀 &nbsp; I’m currently exploring new advanced concepts and work in java environment.
+- 💬 &nbsp; Connect with me and we can work together on projects [here](https://www.linkedin.com/in/vaishnavi-waykar-a84336284/).
+
+- 
 <img  align="left" height="250" width="375" alt="" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
  
 
